@@ -7,7 +7,7 @@ The analysis was conducted in a controlled lab environment using industry-standa
 ---
 
 ## Malware Overview
-'''
+
 Malware Family: Cerber Ransomware
  Platform: Windows PE (x86)
  Hash (MD5): 8b6bc16fd137c09a08b02bbe1bb7d670
