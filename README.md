@@ -71,5 +71,3 @@ Bitcoin block explorer APIs:
 - Time-based evasion via `time.windows.com`
 
 ---
-
-## 📂 Repository Contents
