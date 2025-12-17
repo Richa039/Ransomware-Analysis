@@ -4,7 +4,6 @@ This repository contains an **in-depth static and dynamic malware analysis** of 
 
 The analysis was conducted in a controlled lab environment using industry-standard reverse engineering and malware analysis tools.
 
----
 
 ## Malware Overview
 
