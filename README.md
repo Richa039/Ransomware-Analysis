@@ -49,7 +49,7 @@ Network traffic analysis (Bitcoin payment tracking, Tor gateways)
 
 ## Key Findings
 ```
-Uses **AES + RSA hybrid encryption**
+Uses AES + RSA hybrid encryption
 Dynamically decrypts configuration data at runtime
 Disables recovery mechanisms (Volume Shadow Copy)
 Modifies firewall rules and registry keys for stealth
